@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain seasonable reflections upon the bill for raising the penalty of 500 l. humbly offered to the consideration of the Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31525</idno>
+            <idno type="STC">Wing C1756</idno>
+            <idno type="STC">ESTC R9127</idno>
+            <idno type="EEBO-CITATION">12274625</idno>
+            <idno type="OCLC">ocm 12274625</idno>
+            <idno type="VID">58410</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31525)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58410)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 176:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain seasonable reflections upon the bill for raising the penalty of 500 l. humbly offered to the consideration of the Parliament.</title>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>168-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tax protests and appeals --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:58410:1"/>
+            <head>Certain Seaſonable REFLECTIONS upon the BILL for Raiſing the Penalty of 500 <hi>l.</hi>
+            </head>
+            <head type="sub">
+               <hi>Humbly Offered to the Conſideration of the</hi> Parliament.</head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quaere </seg>1</label> WHether it is not inconſiſtent with his Majeſty's Recommendation of a General Act of Oblivion? and his moſt Gracious Intentions of protecting all his Subjects that are willing to ſwear Allegiance to his Royal Perſon; who came hither to ſave, and not to deſtroy whole Families?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quaere </seg>2</label> Whether ſuch a Calamity would not be too general and univerſal to conſiſt with the true Intereſt of the Kingdom at this juncture of time, whilſt we are in fear of the late King in <hi>Ireland,</hi> and the whole Power of <hi>France;</hi> for I hear that many Thouſand Proteſtant Fami<g ref="char:EOLhyphen"/>lies, their Wives and Children, will be ruined by the Paſſing of this Bill?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quaere </seg>3</label> Whether ſuch a Law be not unequal in it ſelf, and alſo with relation to other Offences? Unequal in it ſelf, becauſe it doth not diſtinguiſh <hi>Quo animo:</hi> Some were moved by Am<g ref="char:EOLhyphen"/>bition, Revenge and Intereſt; others by Principles of Obedience, Conſcience and Fear: ſome deſigned nothing but Miſchief, and others ventured their own Fortunes to protect their caſhiered Friends from Perſecution; nay, there were ſome (though you will not eaſily believe it) that purpoſely neglected the Oaths, that they might with more freedom aſſiſt his preſent Majeſty at his firſt Landing, which they did accordingly.</p>
+            <p>Unequal in relation to other Offences, which are many in number, and of a higher na<g ref="char:EOLhyphen"/>ture; and you will not make a Law for to ſave your own Purſes, which ſhall be like a Cobweb, Catch the leſſer Flies, and let the greater eſcape: It ſeems more equal, that a Catalogue of all Offences ſhould be made, and every Offender, within each reſpective Offence, Fined according to your diſcretion, and the heinouſneſs of the Offence; and the rather, for that it is a Quaere:</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quaere </seg>4</label> Whether this Offence be not more ſafe by the Law, than any of the other great Offences? And whether this Bill hath not a Retroſpect, and ſeems to be in nature of a Bill of Attain<g ref="char:EOLhyphen"/>der, that Condemns Men without any other Law to Convict them beſides it ſelf?</p>
+            <p>For, firſt, all Men that had particular Diſpenſations in their Patents (as all Juſtices of Peace had, and many others) I may plead the Judgment in Sir <hi>Edward Hale</hi>'s Caſe at <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi>-Hall; which Judgment is good till it be Reverſed, and protects all thoſe that relied upon it. If that Judgment be Erroneous, let it be Reverſed, and then all Men have a fair warning; if it were corruptly obtained, then let the Judges ſuffer, and not the poor ignorant Proteſtants in the Countrey. In the Caſe of the Ship-Money, all thoſe that pro<g ref="char:EOLhyphen"/>moted the ſame, and readily ſubmitted to it, and ſolicited others to the like Complyance, were Cenſured in Parliament as guilty of betraying the Rights of the People, and the Priviledges of Parliament, and yet the Judgment of the Judges in <hi>Weſtminſter</hi>-Hall pro<g ref="char:EOLhyphen"/>tected them from the leaſt puniſhment whatſoever. In the next place, the late King's General Pardon, though poſſibly it may not be pleaded in Bar to a particular Impeach<g ref="char:EOLhyphen"/>ment of a great Miniſter of State, which is grounded upon a particular Reaſon of Law; yet it will be good in Law for all others that are not Impeached; and many Thouſands have been diſcharged upon that Pardon already; ſo that Pardon being allowed good, as it muſt be in Law, many never acted ſince that time; others that did, had time till laſt Term, and by conſequence till this, had not the Old Oaths been Abrogated, and being now willing to take the New Oaths within the time preſcribed, inſtead therefore humbly hope for equal benefit.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quaere </seg>5</label> Whether this Bill be Conſiſtent with the Honour of the Government at this day, ſince it overturns the former Proceedings of the ſame Parliament; and it even contradicts the Judgment of every Member of the Houſe of Commons, moſt of the Lords of the Upper Houſe, all the Privy Counſellors, and, with Reverence be it ſpoken, of his Majeſty him<g ref="char:EOLhyphen"/>ſelf; for I humbly conceive, that they were all concerned in making or allowing of the late Commiſſions for the Land-Tax, and the new Commiſſions of the Peace, and you will find almoſt in every County ſome or other within this Act, which are thought wor<g ref="char:EOLhyphen"/>thy to ſerve one day, and muſt be unworthy the next. Then conſider the Reaſon of the Anger againſt theſe Men, which is, becauſe ſuch perſons are ſuppoſed to be Conſenting for taking off the Teſt and Penal Laws; But this Implication cannot be ſtronger than an expreſs conſent by Subſcription, and then you will find ſome of them in all the greateſt
+<pb facs="tcp:58410:2" rendition="simple:additions"/>Offices of the Kingdom; Look into the Treaſury; look into the Commiſſions of the Cuſtoms; the Exciſe; the King's Council; the new Serjeants; even the Privy Counſel<g ref="char:EOLhyphen"/>lors themſelves; Nay you may alſo find them very numerous in both the Houſes of Lords and Commons, and it would doe well firſt to <hi>pull the Beam out of our own Eyes before we ſee the Mote in our Brothers.</hi> Theſe things are no ſecrets, but, on the contrary, being common diſcourſe, it is hoped that no perſon will accuſe the Author of partiality or re<g ref="char:EOLhyphen"/>flection on the Government; for I'll aſſure you, an impartial ſentence upon all Offenders is the great aim of this Paper, both for the Honour and Intereſt of the Government; and I ſpeak the truth more boldly, becauſe it is generally reported that his Majeſty's natural inclinations are againſt the Paſſing of this Bill; The happy influences whereof will make Thouſands of poor Proteſtants, who are heartily ſorry for their paſt Offences, and now wiſh well to the preſent Eſtabliſhment, both pray and fight for the preſervation of his Sacred Perſon.</p>
+            <p>I ſhall not preſume to make a <hi>Quaere,</hi> Whether this Bill will conſiſt with his Majeſty's Alliances abroad, becauſe it is out of my preſent purpoſe, which is onely to make ſome Modeſt Inquiries into the Conſequences of this Bill in relation to Proteſtants.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quaere </seg>6</label> Whether this Bill will not be an Occaſion of calling the Legality of this Parliament in queſtion before the Judges in <hi>Weſtminſter</hi>-Hall? for though, no doubt, all true Proteſtants will readily agree to all Taxes for the publick good, when they ſee that even you your ſelves are comprehended, and ſo grounded upon an equal baſis and foundation; Yet the Law of Self-preſervation, and even Neceſſity, will force them to try the utmoſt means, rather than ſubmit to ſo much ſeverity, and even the utter ruine of themſelves and fami<g ref="char:EOLhyphen"/>lies. And if in ſuch a Caſe the Judges, when they come upon their Oaths in a Judicial manner, upon Argument of Council cannot reconcile their Judgments in Law, to the In<g ref="char:EOLhyphen"/>tereſt of the Nation, what ſad and diſmal Conſequences may this produce? And no man can be ſure that this will not happen, ſince it is a notorious Crime for any to examine, or for the Judges to deliver their Opinions before hand.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quaere </seg>7</label> Whether this Bill will Raiſe ſuch a ſudden ſupply as is required, and thereby anſwer the end for which it is deſigned; for thoſe that are able will either croſs the Sea, or at leaſt croſs the Water, and live in the King's Bench for one Six Months, if not more, expecting the Iſſue of this Campaign, rather than comply with ſo much ſeverity; And thoſe poor Proteſtants that are not able (as I hear moſt of them are not) will doe more ſervice in Plowing and Tilling the Ground, than in a County-Goal. As to thoſe that have Eſtates, (which few have except the Roman Catholicks) they are generally envolved in ſo many Commiſſions, as Sheriffs, Juſtices of Peace, Commiſſions of Sewers, and the like, that their Income will not raiſe the ſeveral Penalties under four or five Years, and all that time their Wives and Children muſt ſtarve Belleve me, ſuch an Univerſal clamour will create Pity, and Pity, Love; and where the Sufferer obtains one, the Puniſher muſt expect its con<g ref="char:EOLhyphen"/>trary: The People of <hi>England</hi> are greedy of a particular Revenge, but abominate an univerſal Calamity.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
